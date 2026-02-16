@@ -61,17 +61,6 @@ python turtle_crossing.py
 
 ---
 
-## 📚 What You Learn From This Project
-
-- Using the turtle module for simple games
-- Handling keyboard input in Python
-- Using a game loop for animation
-- Working with lists of objects (cars)
-- Collision detection
-- Increasing difficulty with levels
-
----
-
 ## 🚀 Possible Improvements
 
 - Convert the game to OOP (Player, CarManager, Scoreboard classes)
